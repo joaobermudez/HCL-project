@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Food Pass</string>
+    <string name="motto">Ready to eat?</string>
+    <string name="pickup">Pick Up</string>
+    <string name="delivery">Delivery</string>
+    <string name="order">Order</string>
+    <string name="order_now">Order Now</string>
+    <string name="cart">My Cart</string>
+    <string name="open_hours">Operating Hours:</string>
+    <string name="days">Mon - Sun</string>
+    <string name="hours">10 AM - 10PM</string>
+
+
+</resources>
